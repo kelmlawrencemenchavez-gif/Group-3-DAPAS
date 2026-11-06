@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Accounting Process Automation System
 
 A Java Swing desktop application with an SQLite database that automates the accounting cycle:
@@ -192,3 +193,7 @@ You can also simply copy `data/accounting.db` while the program is closed.
   who created it. There must always be at least one active Admin.
 * Forgot the only Admin password? Copy `data/accounting.db` as a backup, then delete the rows of the `users` table with any
   SQLite tool, and sign up again (the first new account becomes Admin). Your accounting data is not affected.
+=======
+# Group-3-DAPAS
+complete
+>>>>>>> origin/main
